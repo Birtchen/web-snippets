@@ -1,6 +1,6 @@
 ## PLZ-Daten zur Einbindung in Websites
 
-Hier finden Sie Einbindungsmöglichkeiten von Postleitzahlendaten welche auf [**suche-postleitzahl.org**](https://www.suche-postleitzahl.org) kostenlos heruntergeladen werden können.
+In diesem Fork finden Sie ein Beipiel für eine interaktive Karte, die das Zuständigkeitsgebiet einer Außendienstmitarbeiterin. Die Postleitzahlendaten wurden auf [**suche-postleitzahl.org**](https://www.suche-postleitzahl.org) kostenlos heruntergeladen werden können.
 
 ### Liste aller Snippets
 
@@ -13,7 +13,7 @@ Hier finden Sie Einbindungsmöglichkeiten von Postleitzahlendaten welche auf [**
 
 ### Grundaufbau aller Codebeispiele
 
-Damit alle Beispiele ein solides Layout erhalten und über Javascript ohne großen Aufwand manipuliert werden können, haben wir uns für folgende Basisaustattung entschieden:
+Erstmal nutze ich nur die Basisaustattung:
 
 Source                      | CDN
 :--------------------------- | :--------------------------------------------------------------------
